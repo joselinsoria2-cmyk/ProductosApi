@@ -1,0 +1,144 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|c:\\users\\saul\\desktop\\bootcamp\\productosapi\\productosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|c:\\users\\saul\\desktop\\bootcamp\\productosapi\\productosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|c:\\users\\saul\\desktop\\bootcamp\\productosapi\\productosapi\\productosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\productosapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|c:\\users\\saul\\desktop\\bootcamp\\productosapi\\productosapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F65E3CD-33B0-4B70-A0EB-D4141D67ABD1}|ProductosApi\\ProductosApi.csproj|solutionrelative:productosapi\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductosApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductosApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-31T02:20:37.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosApi",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\ProductosApi.csproj",
+              "RelativeDocumentMoniker": "ProductosApi\\ProductosApi.csproj",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\ProductosApi.csproj",
+              "RelativeToolTip": "ProductosApi\\ProductosApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-31T02:19:38.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "ProductosApi\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwEQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T02:14:59.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProductosApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Saul\\Desktop\\Bootcamp\\ProductosApi\\ProductosApi\\Program.cs",
+              "RelativeToolTip": "ProductosApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T01:38:08.857Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+[
+  {
+    "ContainingType": "ProductosApi.Controllers.ProductosController",
+    "Method": "ObtenerTodos",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductosApi.Controllers.ProductosController",
+    "Method": "Crear",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "ProductosApi.DTOs.CreateProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductosApi.Controllers.ProductosController",
+    "Method": "ObtenerPorId",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductosApi.Controllers.ProductosController",
+    "Method": "Actualizar",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "ProductosApi.DTOs.CreateProductoDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ProductosApi.Controllers.ProductosController",
+    "Method": "Eliminar",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
